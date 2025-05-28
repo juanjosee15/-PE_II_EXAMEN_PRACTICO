@@ -4,7 +4,7 @@
 **Fecha:**  28 de mayo de 2025 
 
 **Repositorio en GitHub:**  
-[https://github.com/tu-usuario/-PE_II_EXAMEN_PRACTICO](https://github.com/tu-usuario/-PE_II_EXAMEN_PRACTICO)
+https://github.com/juanjosee15/-PE_II_EXAMEN_PRACTICO.git
 
 ---
 
@@ -89,7 +89,7 @@ Se desarrolló un **panel de análisis interactivo** que incluye:
 ## Cómo Ejecutar
 
 1. Clona el repositorio:  
-   `git clone https://github.com/tu-usuario/-PE_II_EXAMEN_PRACTICO`
+   `git clone https://github.com/juanjosee15/-PE_II_EXAMEN_PRACTICO.git`
 2. Abre el proyecto en Visual Studio.
 3. Configura la cadena de conexión a en la base de datos sql
 4. Ejecuta el proyecto.
